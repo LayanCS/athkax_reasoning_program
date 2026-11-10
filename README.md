@@ -8,4 +8,7 @@
 - **مقياس الحماية:** صافي الربح لكل مستخدم بعد خصم رسوم مزوّد خدمة التقسيط، ونسبة التعثر في سداد القسط الأول.
 
 ---
-**Program:** https://athkax.sdaia.gov.sa/events/a-b-93503459-e023-491e-86c0-03ad0c1b5526
+أكاديمية سدايا [SDAIAAcademy](https://github.com/SDAIAAcademy) 
+
+
+**البرنامج:** https://athkax.sdaia.gov.sa/events/a-b-93503459-e023-491e-86c0-03ad0c1b5526

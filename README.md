@@ -34,7 +34,7 @@ Python 3 ومكتبات numpy وpandas وscipy وstatsmodels وmatplotlib، وك
 - القسم 9: التقرير والتوصية.
 
 ## هيكل المستودع
-- `finalProject_AB_Testing.ipynb`: دفتر المشروع
+- `run_experiment.py`: الكود الأساسي للتقرير النهائي
 - `README.md`: هذا الملف
 
 ## عن البرنامج
